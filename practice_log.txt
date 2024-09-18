@@ -1,0 +1,74 @@
+Session started at: 2024-09-11 07:00:16
+Question: What is the value of x in the equation 2x - 3 = 7?
+User Answer: 5
+Correct Answer: 5
+Result: Correct
+Question: If f(x) = 2x^2 - 3x + 4, what is f(2)?
+User Answer: 5
+Correct Answer: 10
+Result: Incorrect
+Total Questions: 2
+Correct Answers: 1
+Accuracy: 50.00%
+--------------------------------------------------
+
+Session started at: 2024-09-11 07:08:19
+Question: What is the value of x in the equation 2x - 3 = 7?
+User Answer: 5
+Correct Answer: 5
+Result: Correct
+Question: If f(x) = 2x^2 - 3x + 4, what is f(2)?
+User Answer: g[D6
+Correct Answer: 10
+Result: Incorrect
+Total Questions: 2
+Correct Answers: 1
+Accuracy: 50.00%
+--------------------------------------------------
+
+Session started at: 2024-09-11 08:42:22
+Question: What is the value of x in the equation 2x - 3 = 7?
+User Answer: 5
+Correct Answer: 5
+Result: Correct
+Question: If f(x) = 2x^2 - 3x + 4, what is f(2)?
+User Answer: 6
+Correct Answer: 10
+Result: Incorrect
+Question: What is the area of a triangle with a base of 5 and a height of 8?
+User Answer: 7
+Correct Answer: 20
+Result: Incorrect
+Total Questions: 3
+Correct Answers: 1
+Accuracy: 33.33%
+--------------------------------------------------
+
+Session started at: 2024-09-11 17:48:09
+Question: What is the value of x in the equation 2x - 3 = 7?
+User Answer: 5
+Correct Answer: 5
+Result: Correct
+Question: What is the area of a triangle with a base of 5 and a height of 8?
+User Answer: 5
+Correct Answer: 20
+Result: Incorrect
+Total Questions: 2
+Correct Answers: 1
+Accuracy: 50.00%
+--------------------------------------------------
+
+Session started at: 2024-09-17 21:02:08
+Question: What is the value of x in the equation 2x - 3 = 7?
+User Answer: 5
+Correct Answer: 5
+Result: Correct
+Question: What is the area of a triangle with a base of 5 and a height of 8?
+User Answer: 6
+Correct Answer: 20
+Result: Incorrect
+Total Questions: 2
+Correct Answers: 1
+Accuracy: 50.00%
+--------------------------------------------------
+
